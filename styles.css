@@ -1,0 +1,115 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 25px;
+}
+
+header {
+    background: #D4FEFD;
+    padding: 20px;
+    margin: 10px auto;
+    border: 3px solid #282774;
+    border-radius: 25px;
+    font-size: 19px;
+    color: #282774;
+}
+
+h2 {
+    padding-bottom: 20px;
+}
+
+.comment-blue {
+    border: 2px solid #115296;
+    height: 100px;
+    margin: 30px 20px 50px 20px;
+    padding: 10px;
+}
+
+.comment-green {
+    border: 2px solid #45776D;
+    height: 100px;
+    margin: 30px 20px 50px 20px;
+    padding: 10px;
+}
+
+.comment-yellow {
+    border: 2px solid #CFA52C;
+    height: 100px;
+    margin: 30px 20px 50px 20px;
+    padding: 10px;
+}
+
+.comment4 {
+    border: 2px solid #AC044F;
+    height: 100px;
+    margin: 30px 20px 50px 20px;
+    padding: 10px;
+}
+
+p {
+    margin: 10px;
+}
+
+.div-blue {
+    background: lightblue;
+    padding: 5px 20px 2px 20px;
+    margin-bottom: 3px;
+    font-size: 15px;
+    border: 3px solid #115296;
+    border-radius: 25px;
+    color: #115296;
+
+}
+
+.div-green {
+    background: lightgreen;
+    margin-bottom: 3px;
+    padding: 5px 20px 2px 20px;
+    font-size: 15px;
+    border: 3px solid #45776D;
+    border-radius: 25px;
+    color: #45776D;
+}
+
+.div-yellow {
+    background: lightyellow;
+    padding: 5px 20px 2px 20px;
+    margin-bottom: 3px;
+    font-size: 15px;
+    border: 3px solid #CFA52C;
+    border-radius: 25px;
+    color: #CFA52C;
+}
+
+.div-four {
+    background: lightpink;
+    padding: 5px 20px 1px 20px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    border: 3px solid #AC044F;
+    border-radius: 25px;
+    color: #AC044F;
+}
+
+button {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
+
+input {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
+
+img {
+    height: 300px;
+}
+
+main {
+    width: 719px;
+    display: block;
+    margin: 10px auto;
+}
